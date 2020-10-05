@@ -21,18 +21,11 @@ class Connection{
 		}
 
 	}//endDefaultConstructor
- 
-
 	//disconnect from db
 	public function Disconnect(){
 		$this->datab = NULL;//close connection in PDO
 		$this->isConn = FALSE;
 	}//endDisconnectFunction
-
-
-	
-
-
 }//endClassDatabase
 
  ?>
