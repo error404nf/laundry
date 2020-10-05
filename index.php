@@ -9,7 +9,7 @@
 <body>
   <section class="container">
     <div class="login">
-      <h1>Login to Laundry Shop</h1>
+      <h1>Login to Laundry</h1>
       <form method="post" id="form-login">
         <p><input autofocus type="text" id="username" value="" placeholder="Username" required></p>
         <p><input type="password" id="password" value="" placeholder="Password" required></p>
@@ -27,8 +27,6 @@
       <p>Forgot password? <a href="index.php">reset</a>.</p>
     </div>
   </section>
-
-
     <script src="assets/js/jquery-3.1.1.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/login.js"></script>
