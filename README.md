@@ -1,1 +1,1 @@
-laundry
+Laundry PHP project
