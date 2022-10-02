@@ -6,3 +6,4 @@ if(!isset($_SESSION['user_logged'])){
 	$session->Disconnect();
 	header('location: index.php');
 }
+
