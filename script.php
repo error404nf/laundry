@@ -7,6 +7,7 @@
     <!-- AdminLTE for demo purposes -->
     <script src="dist/js/demo.js"></script>
     
+
    <script type="text/javascript" src="assets/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="assets/js/dataTables.bootstrap.min.js"></script>
     <script src="assets/js/admin.js"></script>
