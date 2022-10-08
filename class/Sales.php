@@ -1,4 +1,5 @@
 <?php
+
 require_once('../database/Database.php');
 require_once('../interface/iSales.php');
 class Sales extends Database implements iSales {
