@@ -1,4 +1,5 @@
 <?php 
+
 require_once('../class/User.php');
 if(isset($_POST['pwd'])){
 	$pwd =$_POST['pwd'];
