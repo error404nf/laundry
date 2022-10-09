@@ -1,5 +1,4 @@
 <?php 
-
 include_once('Connection.php'); //my connection is here
 
 class Database extends Connection{
