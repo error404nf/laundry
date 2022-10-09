@@ -1,6 +1,5 @@
   <li class="header">MAIN NAVIGATION</li>
-           
-    <li class="treeview">
+        <li class="treeview">
       <a href="home.php">
         <i class="fa fa-home"></i>
         <span>Home</span>
