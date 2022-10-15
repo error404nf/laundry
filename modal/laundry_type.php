@@ -1,4 +1,5 @@
 <div class="modal fade" id="modal-lau-type">
+	
 	<div class="modal-dialog">
 		<div class="modal-content">
 			<div class="modal-header">
